@@ -1,5 +1,5 @@
 {
-  "name": "face-occlusions-detection",
+  "name": "face-occlusion-detection",
   "private": true,
   "version": "0.0.0",
   "type": "module",
